@@ -1,4 +1,4 @@
-# Flutter-Instagram-Redesign-UI
+# Flutter-Instagram-Redesign-UI 
 
 ![Instagram Redesign App](https://github.com/nobelleon/Flutter-Instagram-Redesign-UI/assets/76748114/2c0be6b1-fae2-4ed8-948b-b6020b269a0f)
 
